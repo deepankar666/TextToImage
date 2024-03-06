@@ -184,7 +184,7 @@ PyMsgBox==1.0.9
 pynput==1.7.6
 pyparsing==3.0.9
 pyperclip==1.8.2
-pywin32
+pypiwin32==223
 PyRect==0.2.0
 pyrsistent==0.19.3
 PyScreeze==0.1.28
@@ -197,7 +197,6 @@ pyttsx3==2.90
 pytweening==1.0.4
 pytz==2023.3.post1
 pywhatkit==3.8
-pywin32==305
 pywin32-ctypes==0.2.2
 pywinpty==2.0.10
 PyYAML==6.0
